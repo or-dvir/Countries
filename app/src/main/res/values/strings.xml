@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="area">Area:</string>
+    <string name="error">Some error occurred</string>
+    <string name="ok">OK</string>
+    <string name="sort_name_asc">Sort by Name (asc)</string>
+    <string name="sort_name_desc">Sort by Name (desc)</string>
+    <string name="sort_area_asc">Sort by Area (asc)</string>
+    <string name="sort_area_desc">Sort by Area (desc)</string>
+    <string name="borders">Borders</string>
+    <string name="noBorders">This country does not border any other country</string>
+</resources>
